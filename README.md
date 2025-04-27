@@ -10,7 +10,7 @@ This project aims to provide a comprehensive analysis of sales performance by in
 (5)	Walk-In Sale Table
 
 ## Data Source
-The primary dataset used for this analysis is in CSV format, containing detailed information abot each sales made, the mode and modes of pay, as well as that of the product made by the warehouse department of the company
+The primary dataset used for this analysis is in CSV format, containing detailed information abot each sales made, the mode and modes of pay, as well as that of the product made by the warehouse department of the company [kaggle](https://www.kaggle.com/datasets?page=2)
 
 ## Tools and Steps
 •	EXCEL; Used for:
